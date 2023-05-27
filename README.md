@@ -1,4 +1,4 @@
-What's that?! A new dev appeared! ✨
+### What's that?! A new dev appeared! ✨
 
 - Attendee at Coding Bootcamps Europe
 - Frontend Developer in the making
