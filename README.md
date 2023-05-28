@@ -1,4 +1,4 @@
-### What's that?! A new dev appeared! ✨
+### Digital bug hunter 🪲
 
 - Attendee at Coding Bootcamps Europe
 - Frontend Developer in the making
