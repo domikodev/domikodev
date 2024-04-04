@@ -1,4 +1,4 @@
-### Digital bug hunter 🪲
+### Digital bug huntress 🪲
 
 - Attendee at Coding Bootcamps Europe
 - Frontend Developer in the making
