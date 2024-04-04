@@ -1,5 +1,5 @@
 ### Digital bug huntress 🪲
 
-💻 Junior Frontend Developer
-🥊 punching bag connoisseur
-🎤 bathroom superstar
+ 💻 Junior Frontend Developer<br>
+ 🥊 punching bag connoisseur<br>
+ 🎤 bathroom superstar
